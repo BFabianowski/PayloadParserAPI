@@ -1,4 +1,4 @@
-# SimpleApi
+# PayloadParserAPI
 
 ## Wymagania
 
@@ -16,7 +16,7 @@ git clone <adres_repozytorium>
 2. Przejdź do katalogu projektu:
 
 ```bash
-cd SimpleApi
+cd PayloadParserAPI
 ```
 
 3. Przywróć pakiety NuGet:
