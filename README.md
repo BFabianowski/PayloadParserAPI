@@ -28,7 +28,7 @@ dotnet restore
 4. Uruchom aplikację:
 
 ```bash
-dotnet run
+dotnet run --project PayloadParserAPI
 ```
 
 Po uruchomieniu API będzie dostępne pod adresem wyświetlonym w konsoli, np.:
