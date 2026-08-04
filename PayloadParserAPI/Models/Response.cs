@@ -1,4 +1,4 @@
-﻿namespace SimpleApi.Models
+﻿namespace PayloadParserAPI.Models
 {
     /// <summary>
     /// Odpowiedź endpointa

@@ -1,9 +1,9 @@
-﻿using SimpleApi.Models;
+﻿using PayloadParserAPI.Models;
 using System.Net.Mime;
 using System.Text;
-using ContentType = SimpleApi.Models.ContentType;
+using ContentType = PayloadParserAPI.Models.ContentType;
 
-namespace SimpleApi.Services
+namespace PayloadParserAPI.Services
 {
     public class DataProcessing : IDataProcessing
     {

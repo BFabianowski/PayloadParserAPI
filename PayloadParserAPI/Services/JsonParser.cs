@@ -1,9 +1,8 @@
 ﻿using PayloadParserAPI.Services;
-using SimpleApi.Models;
-using System.Net.Mime;
+using PayloadParserAPI.Models;
 using System.Text.Json;
 
-namespace SimpleApi.Services
+namespace PayloadParserAPI.Services
 {
     public class JsonParser : IContentParser
     {

@@ -1,6 +1,6 @@
 ﻿using PayloadParserAPI.Models;
 
-namespace SimpleApi.Models
+namespace PayloadParserAPI.Models
 {
     public enum ErrorType
     {

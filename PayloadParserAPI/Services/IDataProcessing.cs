@@ -1,6 +1,6 @@
-﻿using SimpleApi.Models;
+﻿using PayloadParserAPI.Models;
 
-namespace SimpleApi.Services
+namespace PayloadParserAPI.Services
 {
     public interface IDataProcessing
     {

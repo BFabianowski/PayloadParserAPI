@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SimpleApi.Models;
-using SimpleApi.Services;
+using PayloadParserAPI.Models;
+using PayloadParserAPI.Services;
 
-namespace SimpleApi.Controllers
+namespace PayloadParserAPI.Controllers
 {
     [ApiController]
     [Route("api/v1")]

@@ -1,7 +1,6 @@
-﻿using SimpleApi.Models;
-using System.Net.Mime;
+﻿using PayloadParserAPI.Models;
 
-namespace SimpleApi.Services
+namespace PayloadParserAPI.Services
 {
     public interface IContentParser
     {

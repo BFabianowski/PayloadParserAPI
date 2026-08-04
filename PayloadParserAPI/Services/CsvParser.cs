@@ -1,10 +1,9 @@
 ﻿using CsvHelper;
-using SimpleApi.Models;
+using PayloadParserAPI.Models;
 using System.Formats.Asn1;
 using System.Globalization;
-using System.Net.Mime;
 
-namespace SimpleApi.Services
+namespace PayloadParserAPI.Services
 {
     public class CsvParser : IContentParser
     {
